@@ -1,4 +1,4 @@
-# BookStoreClerkApp
+# BookStoreApp
 
 BookStore.java is a program to be used by a bookstore clerk.
 
