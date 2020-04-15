@@ -1,6 +1,6 @@
 # BookStoreClerkApp
 
-This is a program to be used by a bookstore clerk.
+BookStore.java is a program to be used by a bookstore clerk.
 
 The program allows the clerk to:
   - enter new books into the database
